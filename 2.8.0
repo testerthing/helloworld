@@ -1,0 +1,4 @@
+/usr/bin/tsc -> /usr/lib/node_modules/typescript/bin/tsc
+/usr/bin/tsserver -> /usr/lib/node_modules/typescript/bin/tsserver
++ typescript@3.7.2
+updated 1 package in 0.916s
